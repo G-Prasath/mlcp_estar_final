@@ -28,7 +28,7 @@ import BackToTopButton from "./components/BackToTopButton";
 function App() {
   return (
     <HelmetProvider>
-      <Router>
+      <Router basename="/">
         <ScrollToTop />
         <Navbar />
         <React.Suspense fallback={<div />}>

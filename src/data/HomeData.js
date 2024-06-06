@@ -41,6 +41,22 @@ export const Navlinks = [
 
 export const HomeService = [
   {
+    name: "Shuttle Stacker Parking",
+    link: "/shuttlestacker",
+    img: "/home/Shuttle_Stacker_Parking.jpg",
+    broucher: "/broucher/shuttle_stacker_parking.pdf",
+    content:
+      "The Shuttle Stacker parking system amplifies parking capacity in commercial and residential areas. Using an automated shuttle mechanism, it vertically stores and retrieves vehicles, optimizing space. Ideal for densely populated settings, it enhances accessibility and reduces parking footprint. With advanced technology and customizable configurations, this system efficiently manages parking, offering convenience and efficiency for users in diverse environments.",
+  },
+  {
+    name: "Tower Parking",
+    link: "/towerparking",
+    img: "/home/Tower_Parking.jpg",
+    broucher: "/broucher/tower_carparking_system.pdf",
+    content:
+      "Tower parking, also termed automated parking, maximizes space efficiency and convenience. Vehicles are automatically parked and retrieved by robotic platforms, eliminating traditional ramps and driving lanes. These systems feature vertical towers with multiple parking levels, ideal for urban areas with limited space. Tower parking provides efficient and secure parking solutions, making it a modern and practical choice for urban environments.",
+  },
+  {
     name: "2 Post Hydraulic System",
     link: "/twopost",
     img: "/home/2_Post_Hydraulic_System.jpg",
@@ -64,20 +80,11 @@ export const HomeService = [
       "Puzzle Car Parking systems are exclusively crafted for outdoor parking. Here automatic parking is employed from the ground level to higher level floors for car variants ranging from SUV to Hatch. These systems are categorized according to matrices, ensuring efficient space utilization with convenience and automation. By combining manual and automatic parking methods, Puzzle Car Parking systems offer a versatile solution for optimizing parking space in outdoor environments.",
   },
   {
-    name: "Shuttle Stacker Parking",
-    link: "/shuttlestacker",
-    img: "/home/Shuttle_Stacker_Parking.jpg",
-    broucher: "/broucher/shuttle_stacker_parking.pdf",
+    name: "ASRS ",
+    link: "/asrs",
+    img: "/home/Automated_Storage_And_Retrieval_System.jpg",
     content:
-      "The Shuttle Stacker parking system amplifies parking capacity in commercial and residential areas. Using an automated shuttle mechanism, it vertically stores and retrieves vehicles, optimizing space. Ideal for densely populated settings, it enhances accessibility and reduces parking footprint. With advanced technology and customizable configurations, this system efficiently manages parking, offering convenience and efficiency for users in diverse environments.",
-  },
-  {
-    name: "Tower Parking",
-    link: "/towerparking",
-    img: "/home/Tower_Parking.jpg",
-    broucher: "/broucher/tower_carparking_system.pdf",
-    content:
-      "Tower parking, also termed automated parking, maximizes space efficiency and convenience. Vehicles are automatically parked and retrieved by robotic platforms, eliminating traditional ramps and driving lanes. These systems feature vertical towers with multiple parking levels, ideal for urban areas with limited space. Tower parking provides efficient and secure parking solutions, making it a modern and practical choice for urban environments.",
+      "Automated Storage and Retrieval System (ASRS) automates warehouse inventory handling , including the storage and retrieval of various items such as containers, buses, and train compartments etc. It utilizes machinery like movable robotic pallets to efficiently store and retrieve items in dense storage setups. Managed by a central system, ASRS enhances inventory management, reducing manual efforts and increasing precision. It swiftly retrieves items when required, improving warehouse productivity and space utilization. ASRS is pivotal in modern logistics, streamlining operations and meeting customer demands effectively.",
   },
   {
     name: "Multilevel Stacked Rotary Parking",
@@ -92,13 +99,6 @@ export const HomeService = [
     img: "/home/Bike_Parking.jpg",
     content:
       "Bike parking systems efficiently store motorcycles in various public spaces like parks, universities, shopping centers, transit stations, and office complexes etc. These systems use innovative designs to conserve space and ensure user convenience. By offering secure storage, they encourage motorcycling as a sustainable transport option, addressing urban space limitations. This promotes eco-friendly commuting and reduces congestion.",
-  },
-  {
-    name: "ASRS ",
-    link: "/asrs",
-    img: "/home/Automated_Storage_And_Retrieval_System.jpg",
-    content:
-      "Automated Storage and Retrieval System (ASRS) automates warehouse inventory handling , including the storage and retrieval of various items such as containers, buses, and train compartments etc. It utilizes machinery like movable robotic pallets to efficiently store and retrieve items in dense storage setups. Managed by a central system, ASRS enhances inventory management, reducing manual efforts and increasing precision. It swiftly retrieves items when required, improving warehouse productivity and space utilization. ASRS is pivotal in modern logistics, streamlining operations and meeting customer demands effectively.",
   },
   {
     name: "Car Elevator",

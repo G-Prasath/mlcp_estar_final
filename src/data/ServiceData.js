@@ -366,42 +366,7 @@ export const BikeData = [
           "Designed with intuitive features for easy parking and retrieval of motorcycles.",
       },
     },
-    card_2: {
-      img: "Product-Page/Bike-parking-2.jpg",
-      title: "Benefits",
-      para: {
-        Security:
-          "Offers peace of mind for motorcyclists knowing their bikes are stored securely.",
-        Convenience:
-          "Enables motorcyclists to park their bikes conveniently and access them easily when needed.",
-        "Promotes biking":
-          "Encourages the use of bicycles as a sustainable and healthy mode of transportation.",
-        "Space Efficiency":
-          "Maximizes the use of available space by efficiently storing motorcycles.",
-        "Enhanced User Experience":
-          "Improves the overall experience for cyclists by providing a reliable storage solution.",
-        "Supports Sustainability":
-          "Contributes to reducing carbon emissions and promoting eco-friendly transportation options.",
-      },
-    },
-    card_3: {
-      img: "Product-Page/Bike-parking-3.jpg",
-      title: "Technical Specification",
-      para: {
-        Materials:
-          "Constructed from durable materials such as steel or aluminium.",
-        Dimensions: "Varies based on design and capacity requirements.",
-        "Locking Mechanism":
-          "Options include padlocks, key locks, or electronic locking systems.",
-        "Weather Resistance":
-          "Designed to withstand outdoor elements such as rain, snow, and UV exposure.",
-        Capacity: "Can accommodate a specific number of bicycles per unit.",
-        Installation:
-          "Can be mounted on the ground, walls, or existing infrastructure.",
-        Maintenance:
-          "Requires minimal upkeep, with occasional inspections and cleaning.",
-      },
-    },
+
   },
 ];
 

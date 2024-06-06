@@ -161,7 +161,7 @@ const ContactForm = () => {
             <div className="text-center block">
               <button
                 type="submit"
-                className="btn bg-primary text-white rounded-full max-md:rounded-lg max-w-max py-2 px-5"
+                className="btn bg-primary text-white rounded-full max-w-max py-2 px-5"
                 disabled={submitting}
               >
                 {submitting ? "Sending..." : "Send Now"}

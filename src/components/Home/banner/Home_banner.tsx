@@ -17,24 +17,14 @@ const Home_banner = () => {
         <SplideSlide className="item1">
           <div className="banner-slide"></div>
           <div className="banner-container">
-            <h1>Effortless Shuttle Parking with Streamlined Convenience</h1>
-            <p>
-              Experience hassle-free parking with our shuttle service, offering
-              streamlined convenience for seamless travel to and from your
-              destination.
-            </p>
+            <h1>Shuttle Parking for Streamlined Convenience</h1>
           </div>
         </SplideSlide>
 
         <SplideSlide className="item2">
           <div className="banner-slide"></div>
           <div className="banner-container">
-            <h1>Innovative Puzzle Parking Smart Space Solutions</h1>
-            <p>
-              Revolutionize your parking experience with our puzzle parking
-              system, offering ingenious solutions for maximizing space and
-              convenience.
-            </p>
+            <h1>Innovative Puzzle Parking Smart Solutions</h1>
           </div>
         </SplideSlide>
 
@@ -42,11 +32,6 @@ const Home_banner = () => {
           <div className="banner-slide"></div>
           <div className="banner-container">
             <h1>ASRS : Effortless Material Handling</h1>
-            <p>
-              Experience the future of storage with our ASRS solutions, ensuring
-              seamless retrieval and optimal space utilization for unparalleled
-              efficiency.
-            </p>
           </div>
         </SplideSlide>
       </Splide>
